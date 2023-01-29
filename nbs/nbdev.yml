@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "test_nbdev"
+  site-url: "https://GadgetSteve.github.io/test_nbdev"
+  description: "Test of using the bndev package"
+  repo-branch: main
+  repo-url: "https://github.com/GadgetSteve/test_nbdev"
